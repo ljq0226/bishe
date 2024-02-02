@@ -6,6 +6,7 @@ This is an official starter Turborepo.
 
 Run the following command:
 update
+update
 ```sh
 npx create-turbo@latest
 ```
